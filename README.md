@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQzN2U5enVpMjgyczJwOXM5cW9vOHQ5Nm5ycDUxbTl2cmk1OTZlZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyiufcIwTdF35pNIFS/giphy.gif" width="100%" style="border-radius:10px;"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm50bXA1cWt2dXBrYnpxeTQxdjZobGtib3BodjFtbGp1Nzc5czdraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8EIIjogZeQdUp3ulw8/giphy.gif" width="100%" height= "300"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=2F80FF&center=true&vCenter=true&width=700&lines=Lorenzo+Marca+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Co-fundador+da+Tech+Duo+%F0%9F%9A%80;Estudante+de+Software+no+SENAI+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=2F80FF&center=true&vCenter=true&width=700&lines=Lorenzo+Marca+%F0%9F%91%8B;Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Co-fundador+da+Tech+Duo+%F0%9F%9A%80;Estudante+de+Software+no+SENAI+%F0%9F%93%9A" alt="Typing SVG" />
 
 <br>
 
